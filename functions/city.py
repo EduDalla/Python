@@ -5,5 +5,5 @@ def address(street, city, postal_code):
 s = input("Street: ")
 p_c = input("Código postal: ")
 c = input("Cidade: ")
-address(s, c, p_c)
+address(s, p_c, c)
 

@@ -16,7 +16,7 @@ print(is_a_triangle(1, 1, 3))
 
 
 # def is_a_triangle(a, b, c):
-#     if a + b <= c or b + c <= a or c + a <= b:
+#     if a + b <= c or b + c <= a or c + a <= b:  # you can also use "and" rather than using "or" to make it more compact
 #         return False
 #     return True
 #
